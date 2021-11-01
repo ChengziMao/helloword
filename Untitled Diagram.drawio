@@ -1,1 +1,55 @@
-<mxfile host="app.diagrams.net" modified="2021-11-01T08:04:30.068Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36" etag="ckG-DZFBBu3r26MBiqPJ" version="15.6.3" type="github"><diagram id="wFE0QG_FPsp0jaGvCLVb" name="Page-1">7ZrLcpswFIafxsvMgAiELIOdpJ3mNnVmOu2mI4MKqgWiQsROn75HIBljsOOMW9cLVrF+HQ66/N9BOB4543R5K3Ce3POIsBGyouXImYwQshFy4I9SXo3i2LUSCxpprRGm9DfRoqXVkkakaAVKzpmkeVsMeZaRULY0LARftMN+cNa+a45j0hGmIWZd9QuNZFKrvms1+gdC48Tc2bZ0T4pNsBaKBEd8sSY51yNnLDiX9ad0OSZMrZ5Zl/q6my29q4EJksl9LvjuptPn8mkpzr7RT5/nwWT69eJMZ3nBrNQT1oOVr2YFigVNGc6gFfzgmZzqHhh/ECaURXf4lZdqBIXE4dy0goQL+hviMYMuGwToFlJvMPJbEVN1pQ4TpICYJzOtTekeK29ZK/UOF1ILIWcM5wWdVeNTSopFTLOAS8lTLZnZ3FDGxpxxAXrGV7O7wSllyqtPRKQQBmNA1j0WcyLM/OsZ2B60c04zWRnMDUbuBJQXIiQF91wxGmfQIXleTz2cB1xEKkszeFyPtF4cwecrh6m1LeZEhonujmihgu9LMP60CtUdevvgrmS51Rf2ym3AKeEpkeIVQswFnjaoRtTXzUVjd/dca8ma1c+NiDVi8Sp140L4oI1YNfnsp4IUWQzPCKsve36E9uTR+A7LUud7IIta3OlgtDY57fh+83aX+O0NT2TKjHHW7Gv37PRMuywochzSLF65zu01yi502nZBlpGmdWajdQDoQafLWD8pLbfVK7VJBwBj2C84U3tSaSZshJwry0Vosq8rt9ejrlW1NaFsbFrT9vusaaN3WxOa2p3bnYqLOSgwRo+pfZoJ+BTLasK1AnuftQzo/SpVfa+sdrbQQ7yCkIyD3VgTsJmJbgoqw/bURWVMldi28mVfWlejhVyTEWZcJ23fCOTOzUGrp2bkajMZDkkCD1Qi2g/Znbw6O3ldJFQS5XPVXsCZooGwv0yuW3DLk8puoHxW5bhmhZdZRCLdjUWo0b7spbWFxx5lA4dJKcitGv7E16P8Ygy6d91+s951izlq13KTdR2Yvlruv7+U788LGng5gJfzgZfj8WKfBDDOAMwBwLgDMEd8wPxfYCaPHx9uu28OHxUjueAxnIiLPSzjDe8Qp/IOYVmeZ1n/4h3CZPE3HHwS7xTnQ8k/oORfDCX/IGK8ncSc4juFO/ByAC/+wMvxePnP7xSTx4fr7glpzNOcEQmL/7ZbLofT0amcjuzgyr5G//B05HineDryhmp/QLW3rZ0AD+X+LWQudyJzisejiwGYQ4CxB2COB8xpfOfqD8QcQszu/8IPxPzdR8zxiIFm8wulKnTth17O9R8=</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-11-01T08:47:57.623Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36" etag="bsFbZtpm1e0TsaJ-aiJA" version="15.6.3" type="github">
+  <diagram id="wFE0QG_FPsp0jaGvCLVb" name="Page-1">
+    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="pmgjxNVLRLeKllWQ8sx--84" value="&lt;font color=&quot;#66ff66&quot;&gt;系统模块&lt;/font&gt;" style="whiteSpace=wrap;html=1;align=center;sketch=0;strokeColor=#FFB570;" vertex="1" parent="1">
+          <mxGeometry x="130" y="80" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pmgjxNVLRLeKllWQ8sx--85" value="镇村管理&amp;nbsp; &amp;nbsp;管护设置&amp;nbsp; &amp;nbsp; 村民信息&amp;nbsp; &amp;nbsp; 抽厕记录&amp;nbsp; &amp;nbsp; 维修记录&amp;nbsp;" style="whiteSpace=wrap;html=1;sketch=0;strokeColor=#FFB570;" vertex="1" parent="1">
+          <mxGeometry x="230" y="80" width="420" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pmgjxNVLRLeKllWQ8sx--87" value="&lt;font color=&quot;#66ff66&quot;&gt;应用系统&lt;/font&gt;" style="whiteSpace=wrap;html=1;align=center;sketch=0;strokeColor=#FFB570;" vertex="1" parent="1">
+          <mxGeometry x="130" y="140" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pmgjxNVLRLeKllWQ8sx--88" value="" style="whiteSpace=wrap;html=1;sketch=0;strokeColor=#FFB570;" vertex="1" parent="1">
+          <mxGeometry x="230" y="140" width="420" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pmgjxNVLRLeKllWQ8sx--89" value="&lt;font color=&quot;#66ff66&quot;&gt;数据中心&lt;/font&gt;" style="whiteSpace=wrap;html=1;align=center;sketch=0;strokeColor=#FFB570;" vertex="1" parent="1">
+          <mxGeometry x="130" y="200" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pmgjxNVLRLeKllWQ8sx--90" value="" style="whiteSpace=wrap;html=1;sketch=0;strokeColor=#FFB570;" vertex="1" parent="1">
+          <mxGeometry x="230" y="200" width="420" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pmgjxNVLRLeKllWQ8sx--91" value="基础环境" style="whiteSpace=wrap;html=1;align=center;sketch=0;strokeColor=#FFB570;" vertex="1" parent="1">
+          <mxGeometry x="130" y="260" width="100" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="pmgjxNVLRLeKllWQ8sx--92" value="" style="whiteSpace=wrap;html=1;sketch=0;strokeColor=#FFB570;" vertex="1" parent="1">
+          <mxGeometry x="230" y="260" width="420" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="pmgjxNVLRLeKllWQ8sx--96" value="B/S系统" style="shape=ext;double=1;rounded=0;whiteSpace=wrap;html=1;sketch=0;fontColor=#000000;strokeColor=#FFB570;fillColor=#66FF66;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="380" y="145" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="pmgjxNVLRLeKllWQ8sx--98" value="&lt;font color=&quot;#000000&quot;&gt;RIS&lt;/font&gt;" style="shape=datastore;whiteSpace=wrap;html=1;sketch=0;fontColor=#66FF66;strokeColor=#FFB570;fillColor=#66FF66;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="340" y="210" width="50" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="pmgjxNVLRLeKllWQ8sx--99" value="&lt;font color=&quot;#000000&quot;&gt;PACS&lt;/font&gt;" style="shape=datastore;whiteSpace=wrap;html=1;sketch=0;fontColor=#66FF66;strokeColor=#FFB570;fillColor=#66FF66;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="470" y="210" width="50" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="pmgjxNVLRLeKllWQ8sx--101" value="操作系统" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/cd_dvd.svg;sketch=0;fontColor=#000000;strokeColor=#000000;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="250" y="264" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="pmgjxNVLRLeKllWQ8sx--102" value="服务器" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/generic_server.svg;sketch=0;fontColor=#000000;strokeColor=#000000;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="352" y="264" width="28.000000000000004" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="pmgjxNVLRLeKllWQ8sx--103" value="服务器组" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/mainframe_host.svg;sketch=0;fontColor=#000000;strokeColor=#000000;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="450" y="264" width="36" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="pmgjxNVLRLeKllWQ8sx--104" value="存储组" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/databases.svg;sketch=0;fontColor=#000000;strokeColor=#000000;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="523" y="264" width="50" height="49" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
