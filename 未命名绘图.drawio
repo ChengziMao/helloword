@@ -34,6 +34,9 @@
         <mxCell id="O6di3k8Y4d7J4SgJZkvm-11" value="一套对存储数据的架构逻辑，从哪里来到哪里去，包括异构，ETL，缓存，聚合应用等" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;position2=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="-70" y="370" width="220" height="140" as="geometry" />
         </mxCell>
+        <mxCell id="O6di3k8Y4d7J4SgJZkvm-12" value="应用架构是识别的技术需求，根据业务需求进行技术选型，纯技术层面分层，开发框架和编程语言选择" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;position2=0.11;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="580" y="330" width="225" height="140" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
