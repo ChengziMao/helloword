@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="24.9.2">
   <diagram name="第 1 页" id="7I7pL57d6oraw_pO1p0B">
-    <mxGraphModel dx="1050" dy="530" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1877" dy="530" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -30,6 +30,9 @@
         </mxCell>
         <mxCell id="O6di3k8Y4d7J4SgJZkvm-9" value="对整个系统实现的总体上的架构进行指出系统的层次，各个层次的应用服务" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;position2=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="20" y="190" width="266" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="O6di3k8Y4d7J4SgJZkvm-11" value="一套对存储数据的架构逻辑，从哪里来到哪里去，包括异构，ETL，缓存，聚合应用等" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;position2=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-70" y="370" width="220" height="140" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
