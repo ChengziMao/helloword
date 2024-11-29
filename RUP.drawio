@@ -8,16 +8,31 @@
           <mxGeometry x="330" y="210" width="160" height="100" as="geometry" />
         </mxCell>
         <mxCell id="Kkv8msIZgT0t2eKnKUkp-2" value="逻辑视图&lt;div&gt;Logical-View&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="110" y="110" width="150" height="80" as="geometry" />
+          <mxGeometry x="170" y="110" width="150" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Kkv8msIZgT0t2eKnKUkp-3" value="开发视图&lt;div&gt;Implementation&lt;/div&gt;&lt;div&gt;View&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="600" y="120" width="150" height="80" as="geometry" />
+          <mxGeometry x="520" y="120" width="150" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Kkv8msIZgT0t2eKnKUkp-4" value="处理视图&lt;div&gt;Process View&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="120" y="350" width="150" height="80" as="geometry" />
+          <mxGeometry x="170" y="340" width="150" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Kkv8msIZgT0t2eKnKUkp-5" value="物理视图&lt;div&gt;Deployment View&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="600" y="350" width="150" height="80" as="geometry" />
+          <mxGeometry x="520" y="350" width="150" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Kkv8msIZgT0t2eKnKUkp-6" value="描述系统的功能需求，系统给用户提供哪些服务" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=15;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="40" y="68" width="340" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Kkv8msIZgT0t2eKnKUkp-7" value="在开发环境中软件的静态组织结构，关注开发环境下模块的组织" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="425" y="68" width="420" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Kkv8msIZgT0t2eKnKUkp-8" value="描述用例场景，通常由用例图表示" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="520" y="245" width="230" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Kkv8msIZgT0t2eKnKUkp-9" value="流程视图，描述系统的动态信息，主要是时序图和流程图" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="10" y="460" width="370" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Kkv8msIZgT0t2eKnKUkp-10" value="也叫部署视图，多这个部署信息进行描述" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="520" y="460" width="280" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
