@@ -158,28 +158,28 @@
           <mxGeometry x="245" y="850" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="HZUJhVy6q2yc5Ut3GDNH-54" value="" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Kubernetes.svg;" vertex="1" parent="1">
-          <mxGeometry x="352" y="797" width="50" height="48" as="geometry" />
+          <mxGeometry x="363.5" y="796.1" width="50" height="48" as="geometry" />
         </mxCell>
         <mxCell id="HZUJhVy6q2yc5Ut3GDNH-55" value="资源编排" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="350" y="850" width="60" height="30" as="geometry" />
+          <mxGeometry x="358.5" y="850" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="HZUJhVy6q2yc5Ut3GDNH-56" value="" style="points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;fillColor=#FF6A00;strokeColor=none;shape=mxgraph.alibaba_cloud.dns_domain_name_system;" vertex="1" parent="1">
-          <mxGeometry x="455" y="796" width="55.800000000000004" height="54.900000000000006" as="geometry" />
+          <mxGeometry x="480" y="796.1" width="55.800000000000004" height="54.900000000000006" as="geometry" />
         </mxCell>
         <mxCell id="HZUJhVy6q2yc5Ut3GDNH-57" value="" style="points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;fillColor=#FF6A00;strokeColor=none;shape=mxgraph.alibaba_cloud.domain;" vertex="1" parent="1">
           <mxGeometry x="737" y="797" width="54.900000000000006" height="54.900000000000006" as="geometry" />
         </mxCell>
         <mxCell id="HZUJhVy6q2yc5Ut3GDNH-58" value="DNS" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="454" y="852.9" width="60" height="30" as="geometry" />
+          <mxGeometry x="480" y="851" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="HZUJhVy6q2yc5Ut3GDNH-59" value="域名服务" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="734.45" y="852.9" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="HZUJhVy6q2yc5Ut3GDNH-60" value="" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Data_Box.svg;" vertex="1" parent="1">
-          <mxGeometry x="600" y="804" width="50" height="47" as="geometry" />
+          <mxGeometry x="605" y="803" width="50" height="47" as="geometry" />
         </mxCell>
         <mxCell id="HZUJhVy6q2yc5Ut3GDNH-62" value="OSS存储" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="595" y="853" width="60" height="30" as="geometry" />
+          <mxGeometry x="605" y="852.9" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
