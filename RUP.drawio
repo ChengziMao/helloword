@@ -1,9 +1,114 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="24.9.3">
   <diagram name="第 1 页" id="1mtRWCI4HkUjvD0w2tG7">
-    <mxGraphModel>
+    <mxGraphModel dx="1434" dy="746" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="g6sPE2MV38wEz44r1FkB-1" value="学生" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="140" y="340" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="g6sPE2MV38wEz44r1FkB-2" value="观看课程" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="294" y="180" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="g6sPE2MV38wEz44r1FkB-3" value="查询成绩" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="300" y="320" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="g6sPE2MV38wEz44r1FkB-4" value="登录" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="300" y="450" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="g6sPE2MV38wEz44r1FkB-5" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="190" y="320" as="sourcePoint" />
+            <mxPoint x="280" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="g6sPE2MV38wEz44r1FkB-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.625;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="g6sPE2MV38wEz44r1FkB-1" target="g6sPE2MV38wEz44r1FkB-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="g6sPE2MV38wEz44r1FkB-8" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="190" y="420" as="sourcePoint" />
+            <mxPoint x="280" y="490" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="g6sPE2MV38wEz44r1FkB-9" value="忘记密码" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="550" y="460" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="g6sPE2MV38wEz44r1FkB-10" value="" style="endArrow=classic;html=1;rounded=0;dashed=1;dashPattern=8 8;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="550" y="500" as="sourcePoint" />
+            <mxPoint x="440" y="500" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="g6sPE2MV38wEz44r1FkB-11" value="&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="460" y="468" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="g6sPE2MV38wEz44r1FkB-12" value="忘记密码，需要用找回密码的功能来找回密码，是拓展功能" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="540" y="300" width="200" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="g6sPE2MV38wEz44r1FkB-13" value="微信登录" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="300" y="640" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="g6sPE2MV38wEz44r1FkB-14" value="" style="endArrow=block;html=1;rounded=0;endFill=0;endSize=12;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="359.5" y="640" as="sourcePoint" />
+            <mxPoint x="359.5" y="540" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="g6sPE2MV38wEz44r1FkB-15" value="老师" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="100" y="940" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="g6sPE2MV38wEz44r1FkB-16" value="上传课程" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="300" y="800" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="g6sPE2MV38wEz44r1FkB-17" value="录入成绩" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="300" y="910" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="g6sPE2MV38wEz44r1FkB-18" value="修改成绩" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="300" y="1020" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="g6sPE2MV38wEz44r1FkB-19" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="150" y="960" as="sourcePoint" />
+            <mxPoint x="290" y="960" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="g6sPE2MV38wEz44r1FkB-24" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="150" y="930" as="sourcePoint" />
+            <mxPoint x="290" y="860" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="g6sPE2MV38wEz44r1FkB-25" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="150" y="1010" as="sourcePoint" />
+            <mxPoint x="290" y="1060" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="g6sPE2MV38wEz44r1FkB-26" value="保存成绩" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="570" y="960" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="g6sPE2MV38wEz44r1FkB-27" value="" style="endArrow=classic;html=1;rounded=0;dashed=1;dashPattern=8 8;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="430" y="960" as="sourcePoint" />
+            <mxPoint x="565" y="990" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="g6sPE2MV38wEz44r1FkB-28" value="" style="endArrow=classic;html=1;rounded=0;dashed=1;dashPattern=8 8;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="440" y="1070" as="sourcePoint" />
+            <mxPoint x="560" y="1030" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="g6sPE2MV38wEz44r1FkB-29" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="440" y="940" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="g6sPE2MV38wEz44r1FkB-30" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="430" y="1030" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="g6sPE2MV38wEz44r1FkB-31" value="录入成绩，修改成绩和保存成绩是包含关系" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="580" y="820" width="190" height="130" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
