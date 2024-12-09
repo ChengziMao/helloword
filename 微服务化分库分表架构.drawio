@@ -181,6 +181,9 @@
         <mxCell id="NUhmxYv8Nv4f0Cy1MO_9-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.477;entryY=1.013;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="NUhmxYv8Nv4f0Cy1MO_9-46" target="NUhmxYv8Nv4f0Cy1MO_9-50">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="NUhmxYv8Nv4f0Cy1MO_9-65" value="优点：易开发，理解和维护独立的部署和启动，数据库性能提升&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;缺点：分布式系统-分布式事务问题：管理多个服务-服务治理&lt;/div&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;align=left;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="300" y="-320" width="470" height="130" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
