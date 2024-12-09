@@ -1,15 +1,9 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="25.0.3">
   <diagram name="第 1 页" id="ukLf7o756_BHWLZHAJIW">
-    <mxGraphModel dx="1434" dy="746" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1434" dy="1915" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="JDX_b8moXhUhFZXy2S-E-45" value="4-应用集群+缓存架构" style="fontStyle=0;verticalAlign=top;align=center;spacingTop=-2;fillColor=none;rounded=0;whiteSpace=wrap;html=1;strokeColor=#919191;strokeWidth=2;dashed=1;container=0;collapsible=0;expand=0;recursiveResize=0;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="105" y="570" width="775" height="540" as="geometry" />
-        </mxCell>
-        <mxCell id="JDX_b8moXhUhFZXy2S-E-71" value="ESC服务器" style="fontStyle=1;verticalAlign=top;align=center;spacingTop=-2;fillColor=none;rounded=0;whiteSpace=wrap;html=1;strokeColor=#FF0000;strokeWidth=2;dashed=1;container=0;collapsible=0;expand=0;recursiveResize=0;" vertex="1" parent="1">
-          <mxGeometry x="575" y="670" width="110" height="182" as="geometry" />
-        </mxCell>
         <mxCell id="JDX_b8moXhUhFZXy2S-E-1" value="3-应用集群架构" style="fontStyle=0;verticalAlign=top;align=center;spacingTop=-2;fillColor=none;rounded=0;whiteSpace=wrap;html=1;strokeColor=#919191;strokeWidth=2;dashed=1;container=1;collapsible=0;expand=0;recursiveResize=0;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="110" y="90" width="770" height="390" as="geometry" />
         </mxCell>
@@ -106,77 +100,92 @@
         <mxCell id="JDX_b8moXhUhFZXy2S-E-44" value="ESC服务器" style="fontStyle=1;verticalAlign=top;align=center;spacingTop=-2;fillColor=none;rounded=0;whiteSpace=wrap;html=1;strokeColor=#FF0000;strokeWidth=2;dashed=1;container=1;collapsible=0;expand=0;recursiveResize=0;" vertex="1" parent="JDX_b8moXhUhFZXy2S-E-1">
           <mxGeometry x="470" y="40" width="110" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="JDX_b8moXhUhFZXy2S-E-46" value="ESC服务器" style="fontStyle=1;verticalAlign=top;align=center;spacingTop=-2;fillColor=none;rounded=0;whiteSpace=wrap;html=1;strokeColor=#FF0000;strokeWidth=2;dashed=1;container=1;collapsible=0;expand=0;recursiveResize=0;" vertex="1" parent="1">
-          <mxGeometry x="745" y="670" width="110" height="180" as="geometry" />
+        <mxCell id="JDX_b8moXhUhFZXy2S-E-79" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="105" y="730" width="775" height="540" as="geometry" />
         </mxCell>
-        <mxCell id="JDX_b8moXhUhFZXy2S-E-47" value="&lt;b&gt;ESC服务器&lt;/b&gt;" style="fontStyle=0;verticalAlign=top;align=center;spacingTop=-2;fillColor=none;rounded=0;whiteSpace=wrap;html=1;strokeColor=#FF0000;strokeWidth=2;dashed=1;container=1;collapsible=0;expand=0;recursiveResize=0;" vertex="1" parent="1">
-          <mxGeometry x="400" y="670" width="100" height="180" as="geometry" />
+        <mxCell id="JDX_b8moXhUhFZXy2S-E-45" value="4-应用集群+缓存架构" style="fontStyle=0;verticalAlign=top;align=center;spacingTop=-2;fillColor=none;rounded=0;whiteSpace=wrap;html=1;strokeColor=#919191;strokeWidth=2;dashed=1;container=0;collapsible=0;expand=0;recursiveResize=0;fontSize=16;" vertex="1" parent="JDX_b8moXhUhFZXy2S-E-79">
+          <mxGeometry width="775" height="540" as="geometry" />
         </mxCell>
-        <mxCell id="JDX_b8moXhUhFZXy2S-E-48" value="5万UV" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="135" y="610" width="60" height="30" as="geometry" />
+        <mxCell id="JDX_b8moXhUhFZXy2S-E-71" value="ESC服务器" style="fontStyle=1;verticalAlign=top;align=center;spacingTop=-2;fillColor=none;rounded=0;whiteSpace=wrap;html=1;strokeColor=#FF0000;strokeWidth=2;dashed=1;container=0;collapsible=0;expand=0;recursiveResize=0;" vertex="1" parent="JDX_b8moXhUhFZXy2S-E-79">
+          <mxGeometry x="470" y="107" width="110" height="182" as="geometry" />
         </mxCell>
-        <mxCell id="JDX_b8moXhUhFZXy2S-E-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JDX_b8moXhUhFZXy2S-E-50" target="JDX_b8moXhUhFZXy2S-E-54">
+        <mxCell id="JDX_b8moXhUhFZXy2S-E-46" value="ESC服务器" style="fontStyle=1;verticalAlign=top;align=center;spacingTop=-2;fillColor=none;rounded=0;whiteSpace=wrap;html=1;strokeColor=#FF0000;strokeWidth=2;dashed=1;container=1;collapsible=0;expand=0;recursiveResize=0;" vertex="1" parent="JDX_b8moXhUhFZXy2S-E-79">
+          <mxGeometry x="640" y="107" width="110" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="JDX_b8moXhUhFZXy2S-E-47" value="&lt;b&gt;ESC服务器&lt;/b&gt;" style="fontStyle=0;verticalAlign=top;align=center;spacingTop=-2;fillColor=none;rounded=0;whiteSpace=wrap;html=1;strokeColor=#FF0000;strokeWidth=2;dashed=1;container=1;collapsible=0;expand=0;recursiveResize=0;" vertex="1" parent="JDX_b8moXhUhFZXy2S-E-79">
+          <mxGeometry x="295" y="107" width="100" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="JDX_b8moXhUhFZXy2S-E-48" value="5万UV" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="JDX_b8moXhUhFZXy2S-E-79">
+          <mxGeometry x="30" y="47" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JDX_b8moXhUhFZXy2S-E-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="JDX_b8moXhUhFZXy2S-E-79" source="JDX_b8moXhUhFZXy2S-E-50" target="JDX_b8moXhUhFZXy2S-E-54">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="JDX_b8moXhUhFZXy2S-E-50" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;fontColor=#4277BB;labelBackgroundColor=default;fontSize=12;spacingTop=3;image=img/lib/ibm/users/user.svg;" vertex="1" parent="1">
-          <mxGeometry x="135" y="725" width="60" height="60" as="geometry" />
+        <mxCell id="JDX_b8moXhUhFZXy2S-E-50" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;fontColor=#4277BB;labelBackgroundColor=default;fontSize=12;spacingTop=3;image=img/lib/ibm/users/user.svg;" vertex="1" parent="JDX_b8moXhUhFZXy2S-E-79">
+          <mxGeometry x="30" y="162" width="60" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="JDX_b8moXhUhFZXy2S-E-51" value="&lt;span style=&quot;font-weight: 400;&quot;&gt;用户&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="140" y="790" width="50" height="30" as="geometry" />
+        <mxCell id="JDX_b8moXhUhFZXy2S-E-51" value="&lt;span style=&quot;font-weight: 400;&quot;&gt;用户&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="JDX_b8moXhUhFZXy2S-E-79">
+          <mxGeometry x="35" y="227" width="50" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="JDX_b8moXhUhFZXy2S-E-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JDX_b8moXhUhFZXy2S-E-54" target="JDX_b8moXhUhFZXy2S-E-56">
+        <mxCell id="JDX_b8moXhUhFZXy2S-E-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="JDX_b8moXhUhFZXy2S-E-79" source="JDX_b8moXhUhFZXy2S-E-54" target="JDX_b8moXhUhFZXy2S-E-56">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="JDX_b8moXhUhFZXy2S-E-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JDX_b8moXhUhFZXy2S-E-54" target="JDX_b8moXhUhFZXy2S-E-60">
+        <mxCell id="JDX_b8moXhUhFZXy2S-E-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="JDX_b8moXhUhFZXy2S-E-79" source="JDX_b8moXhUhFZXy2S-E-54" target="JDX_b8moXhUhFZXy2S-E-60">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="JDX_b8moXhUhFZXy2S-E-54" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;fontColor=#4277BB;labelBackgroundColor=default;fontSize=12;spacingTop=3;image=img/lib/ibm/users/browser.svg;" vertex="1" parent="1">
-          <mxGeometry x="260" y="725" width="60" height="60" as="geometry" />
+        <mxCell id="JDX_b8moXhUhFZXy2S-E-54" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;fontColor=#4277BB;labelBackgroundColor=default;fontSize=12;spacingTop=3;image=img/lib/ibm/users/browser.svg;" vertex="1" parent="JDX_b8moXhUhFZXy2S-E-79">
+          <mxGeometry x="155" y="162" width="60" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="JDX_b8moXhUhFZXy2S-E-55" value="&lt;span style=&quot;font-weight: 400;&quot;&gt;电脑&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="265" y="790" width="50" height="30" as="geometry" />
+        <mxCell id="JDX_b8moXhUhFZXy2S-E-55" value="&lt;span style=&quot;font-weight: 400;&quot;&gt;电脑&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="JDX_b8moXhUhFZXy2S-E-79">
+          <mxGeometry x="160" y="227" width="50" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="JDX_b8moXhUhFZXy2S-E-56" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;fontColor=#4277BB;labelBackgroundColor=default;fontSize=12;spacingTop=3;image=img/lib/ibm/infrastructure/channels.svg;" vertex="1" parent="1">
-          <mxGeometry x="260" y="580" width="60" height="60" as="geometry" />
+        <mxCell id="JDX_b8moXhUhFZXy2S-E-56" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;fontColor=#4277BB;labelBackgroundColor=default;fontSize=12;spacingTop=3;image=img/lib/ibm/infrastructure/channels.svg;" vertex="1" parent="JDX_b8moXhUhFZXy2S-E-79">
+          <mxGeometry x="155" y="17" width="60" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="JDX_b8moXhUhFZXy2S-E-57" value="&lt;span style=&quot;font-weight: 400;&quot;&gt;DNS服务&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="255" y="640" width="70" height="30" as="geometry" />
+        <mxCell id="JDX_b8moXhUhFZXy2S-E-57" value="&lt;span style=&quot;font-weight: 400;&quot;&gt;DNS服务&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="JDX_b8moXhUhFZXy2S-E-79">
+          <mxGeometry x="150" y="77" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="JDX_b8moXhUhFZXy2S-E-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JDX_b8moXhUhFZXy2S-E-60" target="JDX_b8moXhUhFZXy2S-E-63">
+        <mxCell id="JDX_b8moXhUhFZXy2S-E-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="JDX_b8moXhUhFZXy2S-E-79" source="JDX_b8moXhUhFZXy2S-E-60" target="JDX_b8moXhUhFZXy2S-E-63">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="JDX_b8moXhUhFZXy2S-E-60" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;fontColor=#4277BB;labelBackgroundColor=default;fontSize=12;spacingTop=3;image=img/lib/ibm/applications/app_server.svg;" vertex="1" parent="1">
-          <mxGeometry x="420" y="725" width="60" height="60" as="geometry" />
+        <mxCell id="JDX_b8moXhUhFZXy2S-E-60" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;fontColor=#4277BB;labelBackgroundColor=default;fontSize=12;spacingTop=3;image=img/lib/ibm/applications/app_server.svg;" vertex="1" parent="JDX_b8moXhUhFZXy2S-E-79">
+          <mxGeometry x="315" y="162" width="60" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="JDX_b8moXhUhFZXy2S-E-61" value="&lt;span style=&quot;font-weight: 400;&quot;&gt;代理服务器&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="410" y="785" width="80" height="30" as="geometry" />
+        <mxCell id="JDX_b8moXhUhFZXy2S-E-61" value="&lt;span style=&quot;font-weight: 400;&quot;&gt;代理服务器&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="JDX_b8moXhUhFZXy2S-E-79">
+          <mxGeometry x="305" y="222" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="JDX_b8moXhUhFZXy2S-E-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="JDX_b8moXhUhFZXy2S-E-63" target="JDX_b8moXhUhFZXy2S-E-68">
+        <mxCell id="JDX_b8moXhUhFZXy2S-E-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="JDX_b8moXhUhFZXy2S-E-79" source="JDX_b8moXhUhFZXy2S-E-63" target="JDX_b8moXhUhFZXy2S-E-68">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="JDX_b8moXhUhFZXy2S-E-78" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JDX_b8moXhUhFZXy2S-E-63" target="JDX_b8moXhUhFZXy2S-E-76">
+        <mxCell id="JDX_b8moXhUhFZXy2S-E-78" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="JDX_b8moXhUhFZXy2S-E-79" source="JDX_b8moXhUhFZXy2S-E-63" target="JDX_b8moXhUhFZXy2S-E-76">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="JDX_b8moXhUhFZXy2S-E-63" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;fontColor=#4277BB;labelBackgroundColor=default;fontSize=12;spacingTop=3;image=img/lib/ibm/applications/app_server.svg;" vertex="1" parent="1">
-          <mxGeometry x="600" y="725" width="60" height="60" as="geometry" />
+        <mxCell id="JDX_b8moXhUhFZXy2S-E-63" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;fontColor=#4277BB;labelBackgroundColor=default;fontSize=12;spacingTop=3;image=img/lib/ibm/applications/app_server.svg;" vertex="1" parent="JDX_b8moXhUhFZXy2S-E-79">
+          <mxGeometry x="495" y="162" width="60" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="JDX_b8moXhUhFZXy2S-E-67" value="&lt;span style=&quot;font-weight: 400;&quot;&gt;数据库&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="770" y="791" width="60" height="30" as="geometry" />
+        <mxCell id="JDX_b8moXhUhFZXy2S-E-67" value="&lt;span style=&quot;font-weight: 400;&quot;&gt;数据库&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="JDX_b8moXhUhFZXy2S-E-79">
+          <mxGeometry x="665" y="228" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="JDX_b8moXhUhFZXy2S-E-68" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;fontColor=#4277BB;labelBackgroundColor=default;fontSize=12;spacingTop=3;image=img/lib/ibm/data/data_services.svg;" vertex="1" parent="1">
-          <mxGeometry x="770" y="725" width="60" height="60" as="geometry" />
+        <mxCell id="JDX_b8moXhUhFZXy2S-E-68" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;fontColor=#4277BB;labelBackgroundColor=default;fontSize=12;spacingTop=3;image=img/lib/ibm/data/data_services.svg;" vertex="1" parent="JDX_b8moXhUhFZXy2S-E-79">
+          <mxGeometry x="665" y="162" width="60" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="JDX_b8moXhUhFZXy2S-E-70" value="&lt;span style=&quot;font-weight: 400;&quot;&gt;服务器集群&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="590" y="790" width="80" height="30" as="geometry" />
+        <mxCell id="JDX_b8moXhUhFZXy2S-E-70" value="&lt;span style=&quot;font-weight: 400;&quot;&gt;服务器集群&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="JDX_b8moXhUhFZXy2S-E-79">
+          <mxGeometry x="485" y="227" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="JDX_b8moXhUhFZXy2S-E-75" value="ESC服务器" style="fontStyle=1;verticalAlign=top;align=center;spacingTop=-2;fillColor=none;rounded=0;whiteSpace=wrap;html=1;strokeColor=#FF0000;strokeWidth=2;dashed=1;container=0;collapsible=0;expand=0;recursiveResize=0;" vertex="1" parent="1">
-          <mxGeometry x="575" y="900" width="110" height="182" as="geometry" />
+        <mxCell id="JDX_b8moXhUhFZXy2S-E-75" value="ESC服务器" style="fontStyle=1;verticalAlign=top;align=center;spacingTop=-2;fillColor=none;rounded=0;whiteSpace=wrap;html=1;strokeColor=#FF0000;strokeWidth=2;dashed=1;container=0;collapsible=0;expand=0;recursiveResize=0;" vertex="1" parent="JDX_b8moXhUhFZXy2S-E-79">
+          <mxGeometry x="470" y="337" width="110" height="182" as="geometry" />
         </mxCell>
-        <mxCell id="JDX_b8moXhUhFZXy2S-E-76" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;fontColor=#4277BB;labelBackgroundColor=default;fontSize=12;spacingTop=3;image=img/lib/ibm/applications/app_server.svg;" vertex="1" parent="1">
-          <mxGeometry x="600" y="955" width="60" height="60" as="geometry" />
+        <mxCell id="JDX_b8moXhUhFZXy2S-E-76" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;fontColor=#4277BB;labelBackgroundColor=default;fontSize=12;spacingTop=3;image=img/lib/ibm/applications/app_server.svg;" vertex="1" parent="JDX_b8moXhUhFZXy2S-E-79">
+          <mxGeometry x="495" y="392" width="60" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="JDX_b8moXhUhFZXy2S-E-77" value="&lt;span style=&quot;font-weight: 400;&quot;&gt;Redis&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="605" y="1021" width="50" height="30" as="geometry" />
+        <mxCell id="JDX_b8moXhUhFZXy2S-E-77" value="&lt;span style=&quot;font-weight: 400;&quot;&gt;Redis&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="JDX_b8moXhUhFZXy2S-E-79">
+          <mxGeometry x="500" y="458" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JDX_b8moXhUhFZXy2S-E-80" value="优点：避免应用程序单点故障，提高应用处理能力&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;缺点：链路存在单点故障-网关-数据库，单机性能瓶颈明显&lt;/div&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;align=left;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="430" y="-70" width="395" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="JDX_b8moXhUhFZXy2S-E-81" value="优点：热点数据缓存，提高性能&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;缺点：增加维护成本，包括缓存穿透/击穿/雪崩/一致性问题&lt;/div&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;align=left;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="460" y="560" width="395" height="140" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
