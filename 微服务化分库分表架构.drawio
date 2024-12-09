@@ -1,9 +1,186 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="25.0.3">
   <diagram name="第 1 页" id="v08SBiCe49YFthJZVZgQ">
-    <mxGraphModel>
+    <mxGraphModel dx="1434" dy="1915" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="NUhmxYv8Nv4f0Cy1MO_9-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="NUhmxYv8Nv4f0Cy1MO_9-1" target="NUhmxYv8Nv4f0Cy1MO_9-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NUhmxYv8Nv4f0Cy1MO_9-1" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;fontColor=#4277BB;labelBackgroundColor=default;fontSize=12;spacingTop=3;image=img/lib/ibm/users/user.svg;" vertex="1" parent="1">
+          <mxGeometry x="30" y="270" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NUhmxYv8Nv4f0Cy1MO_9-2" value="用户" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="35" y="340" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NUhmxYv8Nv4f0Cy1MO_9-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="NUhmxYv8Nv4f0Cy1MO_9-3" target="NUhmxYv8Nv4f0Cy1MO_9-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NUhmxYv8Nv4f0Cy1MO_9-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="NUhmxYv8Nv4f0Cy1MO_9-3" target="NUhmxYv8Nv4f0Cy1MO_9-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NUhmxYv8Nv4f0Cy1MO_9-3" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;fontColor=#4277BB;labelBackgroundColor=default;fontSize=12;spacingTop=3;image=img/lib/ibm/users/browser.svg;" vertex="1" parent="1">
+          <mxGeometry x="180" y="270" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NUhmxYv8Nv4f0Cy1MO_9-4" value="电脑" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="185" y="340" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NUhmxYv8Nv4f0Cy1MO_9-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="NUhmxYv8Nv4f0Cy1MO_9-5" target="NUhmxYv8Nv4f0Cy1MO_9-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NUhmxYv8Nv4f0Cy1MO_9-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="NUhmxYv8Nv4f0Cy1MO_9-5" target="NUhmxYv8Nv4f0Cy1MO_9-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NUhmxYv8Nv4f0Cy1MO_9-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="NUhmxYv8Nv4f0Cy1MO_9-5" target="NUhmxYv8Nv4f0Cy1MO_9-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NUhmxYv8Nv4f0Cy1MO_9-5" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;fontColor=#4277BB;labelBackgroundColor=default;fontSize=12;spacingTop=3;image=img/lib/ibm/applications/app_server.svg;" vertex="1" parent="1">
+          <mxGeometry x="330" y="270" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NUhmxYv8Nv4f0Cy1MO_9-6" value="网关集群" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="325" y="340" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NUhmxYv8Nv4f0Cy1MO_9-9" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;fontColor=#4277BB;labelBackgroundColor=default;fontSize=12;spacingTop=3;image=img/lib/ibm/infrastructure/channels.svg;" vertex="1" parent="1">
+          <mxGeometry x="180" y="100" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NUhmxYv8Nv4f0Cy1MO_9-10" value="DNS服务" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="175" y="170" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NUhmxYv8Nv4f0Cy1MO_9-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="NUhmxYv8Nv4f0Cy1MO_9-12" target="NUhmxYv8Nv4f0Cy1MO_9-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NUhmxYv8Nv4f0Cy1MO_9-12" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;fontColor=#4277BB;labelBackgroundColor=default;fontSize=12;spacingTop=3;image=img/lib/ibm/applications/app_server.svg;" vertex="1" parent="1">
+          <mxGeometry x="470" y="155" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NUhmxYv8Nv4f0Cy1MO_9-13" value="A服务集群" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="460" y="218" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NUhmxYv8Nv4f0Cy1MO_9-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="NUhmxYv8Nv4f0Cy1MO_9-14" target="NUhmxYv8Nv4f0Cy1MO_9-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NUhmxYv8Nv4f0Cy1MO_9-14" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;fontColor=#4277BB;labelBackgroundColor=default;fontSize=12;spacingTop=3;image=img/lib/ibm/applications/app_server.svg;" vertex="1" parent="1">
+          <mxGeometry x="470" y="270" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NUhmxYv8Nv4f0Cy1MO_9-15" value="B服务集群" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="460" y="333" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NUhmxYv8Nv4f0Cy1MO_9-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="NUhmxYv8Nv4f0Cy1MO_9-16" target="NUhmxYv8Nv4f0Cy1MO_9-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NUhmxYv8Nv4f0Cy1MO_9-16" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;fontColor=#4277BB;labelBackgroundColor=default;fontSize=12;spacingTop=3;image=img/lib/ibm/applications/app_server.svg;" vertex="1" parent="1">
+          <mxGeometry x="470" y="390" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NUhmxYv8Nv4f0Cy1MO_9-17" value="C服务集群" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="460" y="453" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NUhmxYv8Nv4f0Cy1MO_9-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="NUhmxYv8Nv4f0Cy1MO_9-18" target="NUhmxYv8Nv4f0Cy1MO_9-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NUhmxYv8Nv4f0Cy1MO_9-18" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;fontColor=#4277BB;labelBackgroundColor=default;fontSize=12;spacingTop=3;image=img/lib/ibm/data/data_services.svg;" vertex="1" parent="1">
+          <mxGeometry x="610" y="155" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NUhmxYv8Nv4f0Cy1MO_9-19" value="数据库-主" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="600" y="218" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NUhmxYv8Nv4f0Cy1MO_9-20" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;fontColor=#4277BB;labelBackgroundColor=default;fontSize=12;spacingTop=3;image=img/lib/ibm/data/data_services.svg;" vertex="1" parent="1">
+          <mxGeometry x="740" y="155" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NUhmxYv8Nv4f0Cy1MO_9-21" value="数据库-从" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="730" y="218" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NUhmxYv8Nv4f0Cy1MO_9-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="NUhmxYv8Nv4f0Cy1MO_9-22" target="NUhmxYv8Nv4f0Cy1MO_9-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NUhmxYv8Nv4f0Cy1MO_9-22" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;fontColor=#4277BB;labelBackgroundColor=default;fontSize=12;spacingTop=3;image=img/lib/ibm/data/data_services.svg;" vertex="1" parent="1">
+          <mxGeometry x="610" y="270" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NUhmxYv8Nv4f0Cy1MO_9-23" value="数据库-主" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="600" y="333" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NUhmxYv8Nv4f0Cy1MO_9-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="NUhmxYv8Nv4f0Cy1MO_9-24" target="NUhmxYv8Nv4f0Cy1MO_9-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NUhmxYv8Nv4f0Cy1MO_9-24" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;fontColor=#4277BB;labelBackgroundColor=default;fontSize=12;spacingTop=3;image=img/lib/ibm/data/data_services.svg;" vertex="1" parent="1">
+          <mxGeometry x="610" y="390" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NUhmxYv8Nv4f0Cy1MO_9-25" value="数据库-主" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="600" y="453" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NUhmxYv8Nv4f0Cy1MO_9-26" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;fontColor=#4277BB;labelBackgroundColor=default;fontSize=12;spacingTop=3;image=img/lib/ibm/data/data_services.svg;" vertex="1" parent="1">
+          <mxGeometry x="740" y="270" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NUhmxYv8Nv4f0Cy1MO_9-27" value="数据库-从" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="730" y="333" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NUhmxYv8Nv4f0Cy1MO_9-28" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;fontColor=#4277BB;labelBackgroundColor=default;fontSize=12;spacingTop=3;image=img/lib/ibm/data/data_services.svg;" vertex="1" parent="1">
+          <mxGeometry x="740" y="390" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NUhmxYv8Nv4f0Cy1MO_9-29" value="数据库-从" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="730" y="453" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NUhmxYv8Nv4f0Cy1MO_9-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0.85;entryY=0.05;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="NUhmxYv8Nv4f0Cy1MO_9-28" target="NUhmxYv8Nv4f0Cy1MO_9-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NUhmxYv8Nv4f0Cy1MO_9-40" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;fontColor=#4277BB;labelBackgroundColor=default;fontSize=12;spacingTop=3;image=img/lib/ibm/applications/app_server.svg;" vertex="1" parent="1">
+          <mxGeometry x="420" y="645" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NUhmxYv8Nv4f0Cy1MO_9-41" value="Redis集群" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="410" y="705" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NUhmxYv8Nv4f0Cy1MO_9-42" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;fontColor=#4277BB;labelBackgroundColor=default;fontSize=12;spacingTop=3;image=img/lib/ibm/applications/app_server.svg;" vertex="1" parent="1">
+          <mxGeometry x="560" y="645" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NUhmxYv8Nv4f0Cy1MO_9-43" value="消息队列" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="555" y="705" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NUhmxYv8Nv4f0Cy1MO_9-44" value="" style="fontStyle=0;verticalAlign=top;align=center;spacingTop=-2;fillColor=none;rounded=0;whiteSpace=wrap;html=1;strokeColor=#919191;strokeWidth=2;dashed=1;container=1;collapsible=0;expand=0;recursiveResize=0;" vertex="1" parent="1">
+          <mxGeometry x="378" y="620" width="280" height="135" as="geometry" />
+        </mxCell>
+        <mxCell id="NUhmxYv8Nv4f0Cy1MO_9-46" value="" style="fontStyle=0;verticalAlign=top;align=center;spacingTop=-2;fillColor=none;rounded=0;whiteSpace=wrap;html=1;strokeColor=#919191;strokeWidth=2;dashed=1;container=1;collapsible=0;expand=0;recursiveResize=0;" vertex="1" parent="1">
+          <mxGeometry x="410" y="90" width="180" height="440" as="geometry" />
+        </mxCell>
+        <mxCell id="NUhmxYv8Nv4f0Cy1MO_9-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.436;entryY=-0.03;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="NUhmxYv8Nv4f0Cy1MO_9-46" target="NUhmxYv8Nv4f0Cy1MO_9-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NUhmxYv8Nv4f0Cy1MO_9-63" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="209" y="-155" width="610" height="155" as="geometry" />
+        </mxCell>
+        <mxCell id="NUhmxYv8Nv4f0Cy1MO_9-50" value="" style="fontStyle=0;verticalAlign=top;align=center;spacingTop=-2;fillColor=none;rounded=0;whiteSpace=wrap;html=1;strokeColor=#919191;strokeWidth=2;dashed=1;container=0;collapsible=0;expand=0;recursiveResize=0;" vertex="1" parent="NUhmxYv8Nv4f0Cy1MO_9-63">
+          <mxGeometry width="610" height="155" as="geometry" />
+        </mxCell>
+        <mxCell id="NUhmxYv8Nv4f0Cy1MO_9-49" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;fontColor=#4277BB;labelBackgroundColor=default;fontSize=12;spacingTop=3;image=img/lib/ibm/applications/app_server.svg;container=0;" vertex="1" parent="NUhmxYv8Nv4f0Cy1MO_9-63">
+          <mxGeometry x="40" y="25" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NUhmxYv8Nv4f0Cy1MO_9-51" value="服务注册发现" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;container=0;" vertex="1" parent="NUhmxYv8Nv4f0Cy1MO_9-63">
+          <mxGeometry x="40" y="85" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NUhmxYv8Nv4f0Cy1MO_9-55" value="配置中心" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;container=0;" vertex="1" parent="NUhmxYv8Nv4f0Cy1MO_9-63">
+          <mxGeometry x="145" y="85" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NUhmxYv8Nv4f0Cy1MO_9-56" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;fontColor=#4277BB;labelBackgroundColor=default;fontSize=12;spacingTop=3;image=img/lib/ibm/applications/app_server.svg;container=0;" vertex="1" parent="NUhmxYv8Nv4f0Cy1MO_9-63">
+          <mxGeometry x="155" y="25" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NUhmxYv8Nv4f0Cy1MO_9-57" value="链路追踪" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;container=0;" vertex="1" parent="NUhmxYv8Nv4f0Cy1MO_9-63">
+          <mxGeometry x="256" y="85" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NUhmxYv8Nv4f0Cy1MO_9-58" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;fontColor=#4277BB;labelBackgroundColor=default;fontSize=12;spacingTop=3;image=img/lib/ibm/applications/app_server.svg;container=0;" vertex="1" parent="NUhmxYv8Nv4f0Cy1MO_9-63">
+          <mxGeometry x="266" y="25" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NUhmxYv8Nv4f0Cy1MO_9-59" value="流控降级" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;container=0;" vertex="1" parent="NUhmxYv8Nv4f0Cy1MO_9-63">
+          <mxGeometry x="370" y="85" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NUhmxYv8Nv4f0Cy1MO_9-60" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;fontColor=#4277BB;labelBackgroundColor=default;fontSize=12;spacingTop=3;image=img/lib/ibm/applications/app_server.svg;container=0;" vertex="1" parent="NUhmxYv8Nv4f0Cy1MO_9-63">
+          <mxGeometry x="380" y="25" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NUhmxYv8Nv4f0Cy1MO_9-61" value="监控告警" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;container=0;" vertex="1" parent="NUhmxYv8Nv4f0Cy1MO_9-63">
+          <mxGeometry x="480" y="85" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NUhmxYv8Nv4f0Cy1MO_9-62" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;fontColor=#4277BB;labelBackgroundColor=default;fontSize=12;spacingTop=3;image=img/lib/ibm/applications/app_server.svg;container=0;" vertex="1" parent="NUhmxYv8Nv4f0Cy1MO_9-63">
+          <mxGeometry x="490" y="25" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NUhmxYv8Nv4f0Cy1MO_9-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.477;entryY=1.013;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="NUhmxYv8Nv4f0Cy1MO_9-46" target="NUhmxYv8Nv4f0Cy1MO_9-50">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
