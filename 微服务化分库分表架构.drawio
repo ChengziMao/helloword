@@ -4,6 +4,12 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="NUhmxYv8Nv4f0Cy1MO_9-67" value="6-服务化-分库分表架构" style="fontStyle=0;verticalAlign=top;align=center;spacingTop=-2;fillColor=none;rounded=0;whiteSpace=wrap;html=1;strokeColor=#919191;strokeWidth=2;dashed=1;container=1;collapsible=0;expand=0;recursiveResize=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-25" y="-210" width="1005" height="980" as="geometry" />
+        </mxCell>
+        <mxCell id="NUhmxYv8Nv4f0Cy1MO_9-28" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;fontColor=#4277BB;labelBackgroundColor=default;fontSize=12;spacingTop=3;image=img/lib/ibm/data/data_services.svg;" vertex="1" parent="NUhmxYv8Nv4f0Cy1MO_9-67">
+          <mxGeometry x="765" y="600" width="60" height="60" as="geometry" />
+        </mxCell>
         <mxCell id="NUhmxYv8Nv4f0Cy1MO_9-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="NUhmxYv8Nv4f0Cy1MO_9-1" target="NUhmxYv8Nv4f0Cy1MO_9-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -112,14 +118,8 @@
         <mxCell id="NUhmxYv8Nv4f0Cy1MO_9-27" value="数据库-从" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="730" y="333" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="NUhmxYv8Nv4f0Cy1MO_9-28" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;fontColor=#4277BB;labelBackgroundColor=default;fontSize=12;spacingTop=3;image=img/lib/ibm/data/data_services.svg;" vertex="1" parent="1">
-          <mxGeometry x="740" y="390" width="60" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="NUhmxYv8Nv4f0Cy1MO_9-29" value="数据库-从" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="730" y="453" width="80" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="NUhmxYv8Nv4f0Cy1MO_9-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0.85;entryY=0.05;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="NUhmxYv8Nv4f0Cy1MO_9-28" target="NUhmxYv8Nv4f0Cy1MO_9-28">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="NUhmxYv8Nv4f0Cy1MO_9-40" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;fontColor=#4277BB;labelBackgroundColor=default;fontSize=12;spacingTop=3;image=img/lib/ibm/applications/app_server.svg;" vertex="1" parent="1">
           <mxGeometry x="420" y="645" width="60" height="60" as="geometry" />
@@ -186,9 +186,6 @@
         </mxCell>
         <mxCell id="NUhmxYv8Nv4f0Cy1MO_9-66" value="100万UV" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="24" y="198" width="70" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="NUhmxYv8Nv4f0Cy1MO_9-67" value="6-服务化-分库分表架构" style="fontStyle=0;verticalAlign=top;align=center;spacingTop=-2;fillColor=none;rounded=0;whiteSpace=wrap;html=1;strokeColor=#919191;strokeWidth=2;dashed=1;container=1;collapsible=0;expand=0;recursiveResize=0;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="-25" y="-210" width="1005" height="980" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
