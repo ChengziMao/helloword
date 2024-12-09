@@ -151,8 +151,8 @@
         <mxCell id="JDX_b8moXhUhFZXy2S-E-60" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;fontColor=#4277BB;labelBackgroundColor=default;fontSize=12;spacingTop=3;image=img/lib/ibm/applications/app_server.svg;" vertex="1" parent="JDX_b8moXhUhFZXy2S-E-79">
           <mxGeometry x="315" y="162" width="60" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="JDX_b8moXhUhFZXy2S-E-61" value="&lt;span style=&quot;font-weight: 400;&quot;&gt;代理服务器&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="JDX_b8moXhUhFZXy2S-E-79">
-          <mxGeometry x="305" y="222" width="80" height="30" as="geometry" />
+        <mxCell id="JDX_b8moXhUhFZXy2S-E-61" value="&lt;span style=&quot;font-weight: 400;&quot;&gt;代理服务器集群&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="JDX_b8moXhUhFZXy2S-E-79">
+          <mxGeometry x="290" y="222" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="JDX_b8moXhUhFZXy2S-E-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="JDX_b8moXhUhFZXy2S-E-79" source="JDX_b8moXhUhFZXy2S-E-63" target="JDX_b8moXhUhFZXy2S-E-68">
           <mxGeometry relative="1" as="geometry" />
