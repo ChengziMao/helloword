@@ -379,6 +379,9 @@
         <mxCell id="kvRejp0Qwi7eRZuN6D7d-131" value="中间件故障/数据热点/高并发请求/海量数据" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;position2=0.85;align=left;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="650" y="650" width="212" height="120" as="geometry" />
         </mxCell>
+        <mxCell id="kvRejp0Qwi7eRZuN6D7d-132" value="高并发/高可用/高性能" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;position2=0.21;align=left;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="1620" y="640" width="190" height="120" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
