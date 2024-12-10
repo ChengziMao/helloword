@@ -64,6 +64,9 @@
         <mxCell id="kvRejp0Qwi7eRZuN6D7d-20" value="运营商为了降低查询流量，缓存部分域名的解析内容，出现域名劫持" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;direction=east;position2=0.83;align=left;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="-110" y="10" width="220" height="120" as="geometry" />
         </mxCell>
+        <mxCell id="kvRejp0Qwi7eRZuN6D7d-21" value="DNS迭代查询，&amp;nbsp; 根DNS返回net顶级DNS地址，再请求net顶级DNS获取服务器ip" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;direction=east;position2=1;align=left;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-180" y="-210" width="220" height="120" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
