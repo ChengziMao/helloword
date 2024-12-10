@@ -1,9 +1,69 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="25.0.3">
   <diagram name="第 1 页" id="Wzh3JCurfQJRtKJ1nYE6">
-    <mxGraphModel>
+    <mxGraphModel dx="2261" dy="1915" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="kvRejp0Qwi7eRZuN6D7d-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="kvRejp0Qwi7eRZuN6D7d-1" target="kvRejp0Qwi7eRZuN6D7d-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kvRejp0Qwi7eRZuN6D7d-1" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;fontColor=#4277BB;labelBackgroundColor=default;fontSize=12;spacingTop=3;image=img/lib/ibm/users/user.svg;" vertex="1" parent="1">
+          <mxGeometry x="-50" y="260" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kvRejp0Qwi7eRZuN6D7d-2" value="用户" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-45" y="330" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kvRejp0Qwi7eRZuN6D7d-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="kvRejp0Qwi7eRZuN6D7d-3" target="kvRejp0Qwi7eRZuN6D7d-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kvRejp0Qwi7eRZuN6D7d-3" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;fontColor=#4277BB;labelBackgroundColor=default;fontSize=12;spacingTop=3;image=img/lib/ibm/users/browser.svg;" vertex="1" parent="1">
+          <mxGeometry x="140" y="260" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kvRejp0Qwi7eRZuN6D7d-4" value="浏览器" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="140" y="330" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kvRejp0Qwi7eRZuN6D7d-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kvRejp0Qwi7eRZuN6D7d-5" target="kvRejp0Qwi7eRZuN6D7d-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kvRejp0Qwi7eRZuN6D7d-5" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;fontColor=#4277BB;labelBackgroundColor=default;fontSize=12;spacingTop=3;image=img/lib/ibm/applications/app_server.svg;" vertex="1" parent="1">
+          <mxGeometry x="140" y="70" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kvRejp0Qwi7eRZuN6D7d-6" value="Local DNS 是否有域名解析" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="85" y="190" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kvRejp0Qwi7eRZuN6D7d-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kvRejp0Qwi7eRZuN6D7d-7" target="kvRejp0Qwi7eRZuN6D7d-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kvRejp0Qwi7eRZuN6D7d-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kvRejp0Qwi7eRZuN6D7d-7" target="kvRejp0Qwi7eRZuN6D7d-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kvRejp0Qwi7eRZuN6D7d-7" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;fontColor=#4277BB;labelBackgroundColor=default;fontSize=12;spacingTop=3;image=img/lib/ibm/applications/app_server.svg;" vertex="1" parent="1">
+          <mxGeometry x="140" y="-100" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kvRejp0Qwi7eRZuN6D7d-8" value="根DNS服务器" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="120" y="-30" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kvRejp0Qwi7eRZuN6D7d-9" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;fontColor=#4277BB;labelBackgroundColor=default;fontSize=12;spacingTop=3;image=img/lib/ibm/applications/app_server.svg;" vertex="1" parent="1">
+          <mxGeometry x="80" y="-260" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kvRejp0Qwi7eRZuN6D7d-10" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;fontColor=#4277BB;labelBackgroundColor=default;fontSize=12;spacingTop=3;image=img/lib/ibm/applications/app_server.svg;" vertex="1" parent="1">
+          <mxGeometry x="195" y="-260" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kvRejp0Qwi7eRZuN6D7d-11" value="com顶级DNS" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="50" y="-190" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kvRejp0Qwi7eRZuN6D7d-12" value="net顶级DNS" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="180" y="-190" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kvRejp0Qwi7eRZuN6D7d-14" value="请求maoda.net" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="20" y="268" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kvRejp0Qwi7eRZuN6D7d-16" value="LocalDNS" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="130" y="140" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kvRejp0Qwi7eRZuN6D7d-20" value="运营商为了降低查询流量，缓存部分域名的解析内容，出现域名劫持" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;direction=east;position2=0.83;align=left;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-110" y="10" width="220" height="120" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
