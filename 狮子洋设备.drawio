@@ -151,6 +151,15 @@
             <mxPoint x="-30" y="785" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="vBEH541SwYFd2HCMVaQ0-66" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#050505;fontColor=#393C56;fillColor=#F2CC8F;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="239.99894736842126" y="420" as="sourcePoint" />
+            <mxPoint x="700" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vBEH541SwYFd2HCMVaQ0-67" value="是这里发送参数包吗" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;" vertex="1" parent="1">
+          <mxGeometry x="670" y="280" width="120" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
